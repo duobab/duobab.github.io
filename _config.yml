@@ -2,7 +2,7 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: http://duobab.com
+url: http://duobab.github.io
 date_format: "ordinal"
 title: 朵芭比学园
 subtitle: "让学习变的简单、专业"
