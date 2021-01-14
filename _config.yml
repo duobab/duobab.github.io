@@ -2,16 +2,16 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://mazhuang.org
+url: http://duobab.com
 date_format: "ordinal"
-title: 码志
-subtitle: "公众号：闷骚的程序员"
-description: "马壮的个人博客，公众号：闷骚的程序员"
-keywords: 码志, Zhuang Ma, mzlogin, mazhuang, 闷骚的程序员
+title: 朵芭比学园
+subtitle: "让学习变的简单和专业"
+description: "duobab, 朵芭比, Spring, Spring Boot, Spring Cloud, 常用命令, Docker, 3分钟入门, 技术支持, 网站搭建, java, redis, IDEA破解"
+keywords: duobab, 朵芭比, Spring, Spring Boot, Spring Cloud, 常用命令, Docker, 3分钟入门, 技术支持, 网站搭建, java, redis, IDEA破解
 timezone: Asia/Shanghai
 encoding: "utf-8"
 side_bar_repo_limit: 5
-repository: mzlogin/mzlogin.github.io
+repository: duobab/duobab.github.io
 # 对 css 和 js 资源的 cdn 加速配置
 cdn:
     jsdelivr:
@@ -38,12 +38,12 @@ highlight_theme: github
 # ---------------- #
 #      Author      #
 # ---------------- #
-author: Zhuang Ma
+author: duobab
 organization: 
 organization_url: 
-github_username: mzlogin
-location: Wuhan, China
-email: chumpma@gmail.com
+github_username: duobab
+location: Beijing, China
+email: duobab_office@163.com
 
 # ---------------- #
 #    Navigation    #
@@ -54,28 +54,28 @@ navs:
     label: 首页
 
   -
-    href: /categories/
-    label: 分类
-
-#   -
-#     href: /archives/
-#     label: 归档
-
-#   -
-#     href: /open-source/
-#     label: 开源
+    href: /3min/
+    label: 3分钟入门(原创)
 
   -
-    href: /wiki/
-    label: 维基
+    href: /command/
+    label: 常用命令
 
   -
-    href: /links/
-    label: 链接
+    href: /problem/
+    label: 问题集合
 
   -
-    href: /about/
-    label: 关于
+    href: /idea/
+    label: IDEA破解
+	
+  -
+    href: /other/
+    label: 杂谈
+
+  -
+    href: /support/
+    label: 技术支持	
 
 # ---------------- #
 #       RSS        #
@@ -115,22 +115,12 @@ collections:
 comments_provider: gitalk
 # !!!重要!!! 请修改下面这些信息为你自己申请的
 # !!!Important!!! Please modify infos below to yours
-# https://disqus.com
-disqus:
-    username: 
-# https://imsun.net/posts/gitment-introduction/
-gitment:
-    owner: mzlogin
-    repo: blog-comments
-    oauth:
-        client_id: d2e1cbbd298958076462
-        client_secret: b42a4178e5fd4a7cf63189ef4b1453b05c375709
 # https://github.com/gitalk/gitalk#install
 gitalk:
-    owner: mzlogin
-    repo: blog-comments
-    clientID: d2e1cbbd298958076462
-    clientSecret: b42a4178e5fd4a7cf63189ef4b1453b05c375709
+    owner: duobab
+    repo: duobab-comments
+    clientID: 38e8b7fb877112cdae44
+    clientSecret: e4be1197ff70a6e632cea98b4e6d1e36997d0bde
 # 在使用其它评论组件时可点击显示 Disqus
 lazy_load_disqus : false
 
