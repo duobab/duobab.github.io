@@ -137,9 +137,9 @@ simple_jekyll_search:
 #      Google      #
 # ---------------- #
 google:
-    analytics_id: UA-80669434-1
+    analytics_id: UA-80669434-duobab
     adsense:
-        footer: true
-        sidebar: true 
-        content_header: true
+        footer: false
+        sidebar: false 
+        content_header: false
         content_footer: false
