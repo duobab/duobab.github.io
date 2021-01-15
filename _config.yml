@@ -104,9 +104,9 @@ plugins:
     - jemoji
 #     - jekyll-mentions
 collections:
-    wiki:
+    command:
         output: true
-        permalink: /wiki/:path/
+        permalink: /command/:path/
 
 # ---------------- #
 #      Comments    #
