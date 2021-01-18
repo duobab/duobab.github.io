@@ -1,43 +1,26 @@
 ---
 layout: command
-title: windows
+title: windows 常用命令
 categories: command
 description: windows 常用命令
 keywords: windows 常用命令
 ---
 
-## 快捷键
+## 查看端口是否开启
+netstat -ano|findstr "9050"
 
-C --> Ctrl
+## 根据 端口号 过滤所有进程
+tasklist|findstr "9050"
 
-S --> Shift
+## 根据 进程名称 过滤所有进程
+tasklist|findstr "9050"
 
-M --> Alt
+## 结束进程X
+taskkill /f /t /im X.exe
 
-Cmd --> Command
+## 查看共享的文件夹
+NET SHARE
 
-### 常用操作
-
-| 功能               | Windows  | Mac OS X |
-|:-------------------|:---------|:---------|
-| 当前页面下新建页面 | C-Return |          |
-| 预览               | F5       |          |
-| 生成 HTML 文件     | F8       |          |
-| 置于顶层           | C-S-]    |          |
-| 置于底层           | C-S-[    |          |
-| 上移一层           | C-]      |          |
-| 下移一层           | C-[      |          |
-| 开关左侧功能栏     | C-M-[    |          |
-| 开关右侧功能栏     | C-M-]    |          |
-
-### 操作多个元件
-
-| 功能     | Windows | Mac OS X |
-|:---------|:--------|:---------|
-| 左对齐   | C-M-l   |          |
-| 左右居中 | C-M-c   |          |
-| 右对齐   | C-M-r   |          |
-| 顶部对齐 | C-M-t   |          |
-| 上下居中 | C-M-m   |          |
-| 底部对齐 | C-M-b   |          |
-| 组合     | C-g     |          |
+## 启用/禁用 ping
+netsh firewall set icmpsetting 8         (启用ping)
+netsh firewall set icmpsetting 8 disable (禁用ping)
