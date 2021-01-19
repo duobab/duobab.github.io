@@ -1,6 +1,8 @@
 # ---------------- #
 #   Main Configs   #
 # ---------------- #
+host: 172.17.60.59
+port: 80
 baseurl:
 url: http://duobab.com
 date_format: "ordinal"
