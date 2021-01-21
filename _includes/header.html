@@ -88,6 +88,28 @@
             s.parentNode.insertBefore(hm, s);
         })();
     </script>
+<!--    <script src="http://static.tctip.com/tctip-1.0.0.min.js"></script>-->
+    <script src="https://cdn.jsdelivr.net/gh/duobab/duobab.github.io@master/tctip/tctip-1.0.3.min.js"></script>
+    <script>
+        new tctip({
+            top: '20%',
+            button: {
+                id: 4,
+                type: 'dashang',
+            },
+            list: [
+                {
+                    type: 'alipay',
+                    qrImg: 'https://cdn.jsdelivr.net/gh/duobab/duobab.github.io@master/images/zfb.jpg'
+                },
+                {
+                    type: 'wechat',
+                    qrImg: 'https://cdn.jsdelivr.net/gh/duobab/duobab.github.io@master/images/wx.jpg'
+                }
+            ],
+            stat: false
+        }).init()
+    </script>
 </head>
 <body class="{{ page.class }}" data-mz="{{ page.class }}">
     <header class="site-header">
