@@ -6,6 +6,9 @@ description: linux 常用命令
 keywords: linux 常用命令
 ---
 
+### 查看系统内核版本
+- uname -r
+
 ### 查看内存信息
 - free -m/-g
 
