@@ -1,18 +1,21 @@
-# ---------------- #
-#   Main Configs   #
-# ---------------- #
+#jekyll config
 host: 172.17.60.59
 port: 80
-baseurl:
+timezone: Asia/Shanghai
+encoding: "utf-8"
+highlighter: rouge
+markdown: kramdown
+permalink: /:year/:month/:day/:title/
+
+#my config
 url: http://duobab.com
+myurl: http://duobab.com
 date_format: "ordinal"
 title: 朵芭比学园
 subtitle: "让学习变的简单、专业"
 description: "duobab, 朵芭比, Spring, Spring Boot, Spring Cloud, 常用命令, Docker, 3分钟入门, 技术支持, 网站搭建, java, redis, IDEA破解"
 keywords: duobab, 朵芭比, Spring, Spring Boot, Spring Cloud, 常用命令, Docker, 3分钟入门, 技术支持, 网站搭建, java, redis, IDEA破解
-timezone: Asia/Shanghai
-encoding: "utf-8"
-side_bar_repo_limit: 0
+
 repository: duobab/duobab.github.io
 # 对 css 和 js 资源的 cdn 加速配置
 cdn:
@@ -87,15 +90,15 @@ navs:
 # ---------------- #
 #      Jekyll      #
 # ---------------- #
-markdown: kramdown
+
 kramdown:
     input: GFM
-highlighter: rouge
+
 paginate: 10
 lsi: false
 quiet: false
 excerpt_separator: "\n\n"
-permalink: /:year/:month/:day/:title/
+
 plugins:
     - jekyll-github-metadata
     - rouge
