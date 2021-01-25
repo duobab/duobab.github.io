@@ -13,7 +13,7 @@
                 </li>
             </ul>
 
-            <ul class="site-footer-links mobile-hidden">
+            <ul class="site-footer-links text-center mobile-hidden">
                 {% for nav in site.navs %}
                 <li>
                     <a href="{{ site.myurl }}{{ nav.href }}" title="{{ nav.label }}" target="{{ nav.target | default: _self }}">{{ nav.label }}</a>
@@ -23,6 +23,10 @@
 
           {% include visit-stat.html %}
 
+            <br>
+            <div class="copyright text-center">
+                <a href="http://beian.miit.gov.cn">鲁ICP备2021002071号-1</a>
+            </div>
         </div>
     </footer>
     <!-- / footer -->
