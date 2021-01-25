@@ -16,7 +16,7 @@
             <ul class="site-footer-links mobile-hidden">
                 {% for nav in site.navs %}
                 <li>
-                    <a href="{{ site.url }}{{ nav.href }}" title="{{ nav.label }}" target="{{ nav.target | default: _self }}">{{ nav.label }}</a>
+                    <a href="{{ site.myurl }}{{ nav.href }}" title="{{ nav.label }}" target="{{ nav.target | default: _self }}">{{ nav.label }}</a>
                 </li>
                 {% endfor %}
             </ul>
