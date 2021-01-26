@@ -57,25 +57,25 @@ navs:
     href: /
     label: 首页
 
-  -
-    href: /3min/
-    label: 3分钟入门
+  #-
+  #  href: /3min/
+  #  label: 3分钟入门
 
   -
     href: /command/
     label: 常用命令
 
-  -
-    href: /problem/
-    label: 问题集合
+  #-
+  #  href: /problem/
+  #  label: 问题集合
 
   -
     href: /idea/
     label: IDEA破解
 
-  -
-    href: /other/
-    label: 杂谈
+  #-
+  #  href: /other/
+  #  label: 杂谈
 
   -
     href: /support/
