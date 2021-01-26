@@ -12,11 +12,11 @@ permalink: /idea/
 
 ## 2017.3版本之前
 <a href="{{ assets_base_url }}/assets/idea/2017.3.txt" download="{{ assets_base_url }}/assets/idea/2017.3.txt">
-<img style="height:25px;width:25px;" src="{{ assets_base_url }}/assets/idea/jetbrains.svg" >
+<img style="height:50px;width:50px;" src="{{ assets_base_url }}/assets/idea/jetbrains.svg" >
 </a>
 
 ## 2018.1版本之后
 <a href="{{ assets_base_url }}/assets/idea/2018.1.txt" download="{{ assets_base_url }}/assets/idea/2018.1.txt">
-<img style="height:25px;width:25px;" src="{{ assets_base_url }}/assets/idea/jetbrains.svg" >
+<img style="height:50px;width:50px;" src="{{ assets_base_url }}/assets/idea/jetbrains.svg" >
 </a>
 
