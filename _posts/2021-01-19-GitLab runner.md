@@ -1,7 +1,7 @@
 ---
 layout: post
 title: GitLab runner搭建过程详解
-categories: gitLab runner
+categories: GitLabRunner
 description: GitLab runner搭建过程详解
 keywords: GitLab runner搭建过程详解
 ---
