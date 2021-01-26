@@ -1,6 +1,6 @@
 #jekyll config
-host: 172.17.60.59
-port: 80
+#host: 172.17.60.59
+#port: 80
 timezone: Asia/Shanghai
 encoding: "utf-8"
 highlighter: rouge
