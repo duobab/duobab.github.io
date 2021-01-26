@@ -10,4 +10,4 @@ permalink: /idea/
 
 # 激活码会定期更新
 
-
+<a href="{{ assets_base_url }}/assets/idea/duo.svg" download="{{ assets_base_url }}/assets/idea/duo.svg">
