@@ -8,7 +8,7 @@ permalink: /:year/:month/:day/:title/
 
 #my config
 url: http://duobab.com
-myurl: http://duobab.com
+myurl: http://www.duobab.com
 date_format: "ordinal"
 title: 朵芭比学园 - 简单记录,快乐学习！
 subtitle: "简单记录,快乐学习！"
