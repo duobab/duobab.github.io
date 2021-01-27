@@ -77,6 +77,10 @@ navs:
   #  label: 杂谈
 
   -
+    href: /website/
+    label: 名站导航
+
+  -
     href: /support/
     label: 技术支持	
 
