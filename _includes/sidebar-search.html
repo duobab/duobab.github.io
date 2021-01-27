@@ -1,7 +1,7 @@
 
 <h3>搜索</h3>
 <div id="site_search">
-    <input style="width:96%" type="text" id="search_box" placeholder="输入关键字搜索">
+    <input style="width:96%" type="text" id="search_box" placeholder="搜索……">
 </div>
 
 <ul id="search_results" style="font-size:14px;list-style-type:none;padding-top:10px;padding-left:10px;"></ul>
@@ -12,7 +12,7 @@
 SimpleJekyllSearch({
     searchInput: document.getElementById('search_box'),
     resultsContainer: document.getElementById('search_results'),
-    json: 'https://duobab.github.io/assets/search_data.json',
+    json: 'http://www.duobab.com/assets/search_data.json',
     searchResultTemplate: '<li><a href="{url}" title="{title}">{title}</a></li>',
     noResultsText: '没有搜索到内容',
     limit: {{ site.simple_jekyll_search.limit }},
