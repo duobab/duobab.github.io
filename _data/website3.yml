@@ -1,0 +1,9 @@
+- name: 京东
+  url: https://www.jd.com
+
+- name: 天猫
+  url: https://www.tmall.com
+
+- name: 淘宝
+  url: https://www.taobao.com
+

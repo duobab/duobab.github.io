@@ -15,16 +15,28 @@ permalink: /website/
 {% endfor %}
 </ul>
 
-#### 博客
-
-#### 开源
-
-#### IT学习
+#### 技术学习
+<ul>
+{% for ws in site.data.website2 %}
+<li><a href="{{ ws.url }}" target="_blank">{{ ws.name }}</a></li>
+{% endfor %}
+</ul>
 
 #### 购物
+<ul>
+{% for ws in site.data.website3 %}
+<li><a href="{{ ws.url }}" target="_blank">{{ ws.name }}</a></li>
+{% endfor %}
+</ul>
 
 #### 视频
+<ul>
+{% for ws in site.data.website4 %}
+<li><a href="{{ ws.url }}" target="_blank">{{ ws.name }}</a></li>
+{% endfor %}
+</ul>
 
 #### 其它
+
 
 

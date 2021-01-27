@@ -1,0 +1,32 @@
+- name: github
+  url: https://github.com
+
+- name: 码云
+  url: https://gitee.com
+
+- name: 菜鸟教程
+  url: https://www.runoob.com
+
+- name: W3School
+  url: https://www.w3school.com.cn
+
+- name: 开源中国
+  url: https://www.oschina.net
+
+- name: 简书
+  url: https://www.jianshu.com
+
+- name: 博客园
+  url: https://www.cnblogs.com
+
+- name: CSDN
+  url: https://blog.csdn.net
+
+- name: 思否
+  url: https://segmentfault.com
+
+- name: V2EX
+    url: https://www.v2ex.com
+
+- name: 掘金
+  url:  https://juejin.cn

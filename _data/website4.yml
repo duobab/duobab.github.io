@@ -1,0 +1,9 @@
+- name: 腾讯视频
+  url: https://v.qq.com
+
+- name: 爱奇艺
+  url: https://www.iqiyi.com
+
+- name: 哔哩哔哩
+  url: https://www.bilibili.com
+
