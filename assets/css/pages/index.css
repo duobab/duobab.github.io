@@ -1,11 +1,11 @@
 .home .banner{
     /*background: #4183c4;*/
+    background: #96b97d;
     color: #fff
 }
 .home .site-header {
     /*background: #4183c4;*/
-    background: #96b97d;
-    color: #fff
+    /*color: #fff*/
 }
 
 .home .banner .collection-head {
