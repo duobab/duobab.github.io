@@ -10,7 +10,7 @@ permalink: /:year/:month/:day/:title/
 url: http://duobab.com
 myurl: http://www.duobab.com
 date_format: "ordinal"
-title: 朵芭比学园 - 简单记录,快乐学习！
+title: 朵芭比学园
 subtitle: "简单记录,快乐学习！"
 description: "朵芭比学园(www.duobab.com)记录了一些技术入门、常用命令等, 主要介绍了Java，Spring,Spring Boot,docker,MySQL,redis等基础知识。"
 keywords: duobab, 朵芭比, Spring, Spring Boot, Spring Cloud, 常用命令, Docker, 3分钟入门, 技术支持, 网站搭建, java, redis, IDEA破解
