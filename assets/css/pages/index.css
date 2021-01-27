@@ -5,7 +5,7 @@
 }
 .home .site-header {
     /*background: #4183c4;*/
-    color: #000000
+    color: #333
 }
 
 .home .banner .collection-head {
@@ -20,21 +20,21 @@
 }
 
 .home .site-header h1 a {
-    color: #fff
+    color: #333
 }
 
 .home .site-header .site-header-nav-item {
-    color: rgba(255, 255, 255, .5)
+    color: #777
 }
 
 .home .site-header .site-header-nav-item:hover {
-    color: #fff
+    color: #333;
 }
 
 
 @media (max-width:50em) {
   .home .collapsed .icon-bar {
-    background-color: white;
+    background-color: #563d7c;
   }
 
   .home .collection-head .collection-header {
