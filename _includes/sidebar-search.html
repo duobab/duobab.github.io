@@ -12,7 +12,7 @@
 SimpleJekyllSearch({
     searchInput: document.getElementById('search_box'),
     resultsContainer: document.getElementById('search_results'),
-    json: 'http://www.duobab.com/assets/search_data.json',
+    json: '{{ site.myurl }}/assets/search_data.json',
     searchResultTemplate: '<li><a href="{url}" title="{title}">{title}</a></li>',
     noResultsText: '没有搜索到内容',
     limit: {{ site.simple_jekyll_search.limit }},
