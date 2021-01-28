@@ -13,7 +13,7 @@ permalink: /command/
 <ul class="listing">
 {% for command in site.command %}
 {% if command.title != "command Template" %}
-<li class="listing-item"><a href="{{ site.url }}{{ command.url }}">{{ command.title }}<span style="font-size:12px;color:red;font-style:italic;"></span></a></li>
+<li class="listing-item"><a href="{{ site.myurl }}{{ command.url }}">{{ command.title }}<span style="font-size:12px;color:red;font-style:italic;"></span></a></li>
 {% endif %}
 {% endfor %}
 </ul>
