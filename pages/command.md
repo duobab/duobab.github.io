@@ -1,14 +1,12 @@
 ---
 layout: page
-title: 常用命令
-description: 常用命令
-keywords: command, 常用命令
+title: 猜你喜欢
+description: 猜你喜欢
+keywords: 猜你喜欢
 comments: false
-menu: 常用命令
+menu: 猜你喜欢
 permalink: /command/
 ---
-
-> 常用命令整理
 
 <ul class="listing">
 {% for command in site.command %}

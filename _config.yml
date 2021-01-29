@@ -54,15 +54,11 @@ email: duobab_office@163.com
 navs:
   -
     href: /
-    label: 首页
+    label: 技术学习
 
   #-
   #  href: /3min/
   #  label: 3分钟入门
-
-  -
-    href: /command/
-    label: 常用命令
 
   #-
   #  href: /problem/
@@ -79,6 +75,10 @@ navs:
   -
     href: /website/
     label: 名站导航
+
+  -
+    href: /command/
+    label: 猜你喜欢
 
   -
     href: /support/
