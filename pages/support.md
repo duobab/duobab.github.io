@@ -3,7 +3,7 @@ layout: page
 title: 技术支持
 description: 搭建网站, 搭建博客, 朵芭比学园, 技术支持
 keywords: 搭建网站, 搭建博客, 朵芭比学园, 技术支持
-comments: false
+comments: true
 menu: 技术支持
 permalink: /support/
 ---
