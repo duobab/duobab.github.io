@@ -1,4 +1,4 @@
-{% if page.comments != false %}
+{% if page.comments == true %}
 
   {% case site.comments_provider %}
     {% when 'gitalk' %}
@@ -8,7 +8,7 @@
         <script src="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.min.js"></script>
         <script>
         var gitalk = new Gitalk({
-            id: '{{ page.url | truncate: 50, '' }}',
+            id: '/duobab/',
             clientID: '{{ site.gitalk.clientID }}',
             clientSecret: '{{ site.gitalk.clientSecret }}',
             repo: '{{ site.gitalk.repo }}',

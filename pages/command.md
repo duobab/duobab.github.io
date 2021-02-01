@@ -3,7 +3,6 @@ layout: page
 title: 猜你喜欢
 description: 猜你喜欢
 keywords: 猜你喜欢
-comments: false
 menu: 猜你喜欢
 permalink: /command/
 ---
