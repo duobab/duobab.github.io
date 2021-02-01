@@ -1,21 +1,25 @@
 http://www.duobab.com
-http://www.duobab.com/2021-01-19-angular
-http://www.duobab.com/2021-01-19-gitLab-runner
-http://www.duobab.com/2021-01-26-code-server
-http://www.duobab.com/2021-01-26-nginx
-http://www.duobab.com/2021-01-26-share-storage
-http://www.duobab.com/2021-01-29-docker
-http://www.duobab.com/2021-01-29-linux
-http://www.duobab.com/2021-01-29-maven
-http://www.duobab.com/2021-01-29-other
-http://www.duobab.com/2021-01-29-redis
-http://www.duobab.com/2021-01-29-windows
+http://www.duobab.com/2021/01/19/angular
+http://www.duobab.com/2021/01/19/gitLabrunner
+http://www.duobab.com/2021/01/26/codeserver
+http://www.duobab.com/2021/01/26/nginx
+http://www.duobab.com/2021/01/26/sharestorage
+http://www.duobab.com/2021/01/29/docker
+http://www.duobab.com/2021/01/29/linux
+http://www.duobab.com/2021/01/29/maven
+http://www.duobab.com/2021/01/29/other
+http://www.duobab.com/2021/01/29/redis
+http://www.duobab.com/2021/01/29/windows
 
 http://www.duobab.com/idea/
 
 http://www.duobab.com/website/
 
 http://www.duobab.com/command
-http://www.duobab.com/command/2021-02-01-chunyun/
+http://www.duobab.com/command/2021/02/01/chunyun/
+http://www.duobab.com/command/2021/02/01/2020gdp
+http://www.duobab.com/command/2021/02/01/mofangquantui
+http://www.duobab.com/command/2021/02/01/nana
+
 
 http://www.duobab.com/support/
