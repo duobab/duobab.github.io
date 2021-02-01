@@ -1,10 +1,10 @@
 ---
 layout: page
-title: 技术支持
+title: 建议及反馈
 description: 搭建网站, 搭建博客, 朵芭比学园, 技术支持
 keywords: 搭建网站, 搭建博客, 朵芭比学园, 技术支持
 comments: true
-menu: 技术支持
+menu: 支持与服务
 permalink: /support/
 ---
 
@@ -13,7 +13,7 @@ permalink: /support/
 -->
 
 
-## 联系
+#### 联系方式
 
 <ul>
 {% for website in site.data.social %}
