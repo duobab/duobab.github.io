@@ -10,6 +10,7 @@ http://www.duobab.com/2021/01/29/maven
 http://www.duobab.com/2021/01/29/other
 http://www.duobab.com/2021/01/29/redis
 http://www.duobab.com/2021/01/29/windows
+http://www.duobab.com/2021/02/02/html
 
 http://www.duobab.com/idea/
 
