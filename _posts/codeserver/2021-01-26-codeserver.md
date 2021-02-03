@@ -1,7 +1,7 @@
 ---
 layout: post
 title: code server搭建过程详解
-categories: CodeServer
+categories: codeserver
 description: code server搭建过程详解
 keywords: code server搭建过程详解
 ---
