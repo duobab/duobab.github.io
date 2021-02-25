@@ -1,6 +1,6 @@
 ---
 layout: command
-title: org.thymeleaf.exceptions.TemplateInputException
+title: 模板异常
 categories: 猜你喜欢
 description: org.thymeleaf.exceptions.TemplateInputException: Error resolving template , template might not exist or might not be accessible by any of the configured Template Resolvers
 keywords: org.thymeleaf.exceptions.TemplateInputException: Error resolving template , template might not exist or might not be accessible by any of the configured Template Resolvers
