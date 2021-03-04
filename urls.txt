@@ -1,16 +1,38 @@
 http://www.duobab.com
-http://www.duobab.com/2021/01/19/angular
-http://www.duobab.com/2021/01/19/gitLabrunner
-http://www.duobab.com/2021/01/26/codeserver
-http://www.duobab.com/2021/01/26/nginx
-http://www.duobab.com/2021/01/26/sharestorage
+
+http://www.duobab.com/2021/01/26/code-server
+
 http://www.duobab.com/2021/01/29/docker
 http://www.duobab.com/2021/01/29/linux
 http://www.duobab.com/2021/01/29/maven
 http://www.duobab.com/2021/01/29/other
 http://www.duobab.com/2021/01/29/redis
 http://www.duobab.com/2021/01/29/windows
-http://www.duobab.com/2021/02/02/html
+
+http://www.duobab.com/2021/02/08/docker
+
+http://www.duobab.com/2021/02/04/npm
+http://www.duobab.com/2021/02/05/nodejs
+http://www.duobab.com/2021/02/06/angular
+http://www.duobab.com/2021/02/07/html
+
+http://www.duobab.com/2021/01/19/gitLabrunner
+
+http://www.duobab.com/2021/01/26/nginx
+
+http://www.duobab.com/2021/01/26/sharestorage
+
+http://www.duobab.com/2021/02/09/websocket
+http://www.duobab.com/2021/02/10/sso
+http://www.duobab.com/2021/02/11/spring_security
+http://www.duobab.com/2021/02/12/redis
+http://www.duobab.com/2021/02/13/postgresql
+http://www.duobab.com/2021/02/14/mysql
+http://www.duobab.com/2021/02/15/angular
+http://www.duobab.com/2021/02/16/front_back
+http://www.duobab.com/2021/02/17/thymeleaf
+http://www.duobab.com/2021/02/18/front
+http://www.duobab.com/2021/02/19/back
 
 http://www.duobab.com/idea/
 
@@ -20,7 +42,6 @@ http://www.duobab.com/command
 http://www.duobab.com/command/2021/02/01/chunyun/
 http://www.duobab.com/command/2021/02/01/2020gdp
 http://www.duobab.com/command/2021/02/01/mofangquantui
-http://www.duobab.com/command/2021/02/01/nana
 
 
 http://www.duobab.com/support/

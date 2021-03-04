@@ -1,7 +1,7 @@
 ---
 layout: post
 title: windows和linux共享存储方案
-categories: 其它分类
+categories: 其它
 description: windows和linux共享存储方案
 keywords: windows和linux共享存储方案
 ---
