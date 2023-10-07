@@ -73,8 +73,8 @@ navs:
   #  label: 杂谈
 
   -
-    #href: /website/#
-    href: http://docs.duobab.com
+    href: /website/
+    #href: http://docs.duobab.com#
     label: 文档中心
 
   -
