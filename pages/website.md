@@ -1,41 +1,16 @@
 ---
 layout: page
-title: 名站导航
-description: 名站导航
-keywords: 名站导航
-menu: 名站导航
+title: 文档中心
+description: 文档中心
+keywords: 文档中心
+menu: 文档中心
 permalink: /website/
 ---
 
-#### 常用
+#### 文档中心
 <ul>
 {% for ws in site.data.website1 %}
 <li><a href="{{ ws.url }}" target="_blank">{{ ws.name }}</a></li>
 {% endfor %}
 </ul>
-
-#### 技术学习
-<ul>
-{% for ws in site.data.website2 %}
-<li><a href="{{ ws.url }}" target="_blank">{{ ws.name }}</a></li>
-{% endfor %}
-</ul>
-
-#### 购物
-<ul>
-{% for ws in site.data.website3 %}
-<li><a href="{{ ws.url }}" target="_blank">{{ ws.name }}</a></li>
-{% endfor %}
-</ul>
-
-#### 视频
-<ul>
-{% for ws in site.data.website4 %}
-<li><a href="{{ ws.url }}" target="_blank">{{ ws.name }}</a></li>
-{% endfor %}
-</ul>
-
-#### 其它
-
-
 
