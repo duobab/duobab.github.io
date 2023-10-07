@@ -7,7 +7,6 @@ menu: 文档中心
 permalink: /website/
 ---
 
-#### 文档中心
 <ul>
 {% for ws in site.data.website1 %}
 <li><a href="{{ ws.url }}" target="_blank">{{ ws.name }}</a></li>
